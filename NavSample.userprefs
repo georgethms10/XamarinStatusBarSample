@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{EACE9569-63F1-44C7-81A7-E213A8C713BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/ChangeStatusBar.cs">
+    <Files>
+      <File FileName="NavSample/NavSamplePage.xaml" Line="28" Column="51" />
+      <File FileName="NavSample/obj/Debug/NavSample.NavSamplePage.xaml.g.cs" Line="37" Column="1" />
+      <File FileName="Droid/ChangeStatusBar.cs" Line="158" Column="31" />
+      <File FileName="NavSample/IChangeStatusBars.cs" Line="4" Column="36" />
+      <File FileName="Droid/MainActivity.cs" Line="11" Column="11" />
+      <File FileName="NavSample/NavSamplePage.xaml.cs" Line="16" Column="42" />
+      <File FileName="Droid/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="24" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavSample.Droid PreferredExecutionTarget="Android.George" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NavSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.76138D05-30CF-4E41-B605-929D8AD3C5AD">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.NavSample.iOS>
+</Properties>
